@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Recipebook - README</title>
 </head>
 <body>
     <h1>Recipebook</h1>
