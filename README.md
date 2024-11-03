@@ -10,7 +10,6 @@
     <h2>Features</h2>
     <ul>
         <li><strong>Recipe Listings</strong>: Browse through a curated collection of recipes with detailed instructions.</li>
-        <li><strong>Search and Filter</strong>: Quickly find recipes that match your taste preferences.</li>
         <li><strong>Responsive Design</strong>: Enjoy a seamless experience across devices, from mobile to desktop.</li>
         <li><strong>Interactive Elements</strong>: Smooth animations and intuitive navigation using HTML, CSS, and JavaScript.</li>
     </ul>
@@ -26,12 +25,6 @@
         <li>Enhanced search functionality with more filters.</li>
         <li>Integration with an API for real-time updates and new recipe ideas.</li>
     </ul>
-    <h2>How to Contribute</h2>
-    <ol>
-        <li>Fork the repository.</li>
-        <li>Create a new branch for your feature or bug fix.</li>
-        <li>Commit your changes and submit a pull request.</li>
-    </ol>
     <h2>License</h2>
     <p>This project is open-source and free to use.</p>
 </body>
